@@ -15,7 +15,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .container {
@@ -48,8 +48,8 @@ img {
   background-color: hsl(225, 100%, 98%);
 
   display: flex;
-  justify-content: space-between;
-  padding: 1.5rem;
+  justify-content: space-around;
+  padding: 1rem 0;
 }
 
 .order-plan,
@@ -172,4 +172,4 @@ button,
   .cancel {
     font-size: 0.938rem;
   }
-} 
+}
